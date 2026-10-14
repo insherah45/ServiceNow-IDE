@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_wisys_safety",
+  "scopeId": "448e1363003b03107f44be862f1e9377",
+  "name": "Report a Safety Issue Wisys 01",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
